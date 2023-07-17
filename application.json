@@ -39,7 +39,7 @@
     }
   },
   "color": "#FBF4ED",
-  "icon": "mug",
+  "icon": "bag",
   "unpublishedAppLayout": {
     "type": "DESKTOP"
   },
@@ -53,7 +53,7 @@
   "embedSetting": {
     "height": "720px",
     "width": "1024px",
-    "showNavigationBar": true
+    "showNavigationBar": false
   },
   "collapseInvisibleWidgets": true,
   "isManualUpdate": false,
