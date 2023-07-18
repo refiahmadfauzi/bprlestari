@@ -14,12 +14,12 @@
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "minHeight": 1292,
-          "useAutoLayout": true,
+          "useAutoLayout": false,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
-          "positioning": "vertical",
+          "positioning": "fixed",
           "backgroundColor": "none",
           "rightColumn": 4896,
           "snapColumns": 64,
@@ -28,18 +28,7 @@
           "containerStyle": "none",
           "snapRows": 124,
           "version": 80,
-          "mobileTopRow": 0,
-          "responsiveBehavior": "fill",
-          "flexLayers": [
-            {
-              "children": [
-                {
-                  "id": "rtue7w2l7s",
-                  "align": "start"
-                }
-              ]
-            }
-          ]
+          "mobileTopRow": 0
         },
         "layoutOnLoadActions": [
           [

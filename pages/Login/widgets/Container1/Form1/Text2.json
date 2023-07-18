@@ -7,8 +7,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 32.19999999999999,
-    "bottomRow": 36.19999999999999,
+    "topRow": 30.199999999999992,
+    "bottomRow": 34.19999999999999,
     "parentRowSpace": 10,
     "type": "TEXT_WIDGET",
     "hideCard": false,
@@ -27,7 +27,6 @@
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
     "text": "Belum punya akun? register disini",
     "key": "hvxuwj6x9g",
-    "flexVerticalAlignment": "end",
     "isDeprecated": false,
     "rightColumn": 64,
     "textAlign": "LEFT",
@@ -42,11 +41,9 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "originalTopRow": 32.19999999999638,
-    "responsiveBehavior": "fill",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "maxDynamicHeight": 9000,
     "originalBottomRow": 36.19999999999709,
     "fontSize": "0.875rem",
-    "alignment": "start",
     "minDynamicHeight": 4
 }

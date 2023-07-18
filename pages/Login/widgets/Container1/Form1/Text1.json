@@ -7,8 +7,8 @@
         "paragraph",
         "label"
     ],
-    "topRow": 6.2,
-    "bottomRow": 10.2,
+    "topRow": 5.8,
+    "bottomRow": 9.8,
     "type": "TEXT_WIDGET",
     "hideCard": false,
     "shouldScrollContents": true,
@@ -26,7 +26,6 @@
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
     "text": "Login\n",
     "key": "p5ilztdrpy",
-    "flexVerticalAlignment": "end",
     "isDeprecated": false,
     "rightColumn": 64,
     "disableLink": false,
@@ -42,11 +41,9 @@
     "renderMode": "CANVAS",
     "isLoading": false,
     "originalTopRow": 6.2,
-    "responsiveBehavior": "fill",
     "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
     "maxDynamicHeight": 9000,
     "originalBottomRow": 10.200000000000728,
     "fontSize": "1.25rem",
-    "alignment": "start",
     "minDynamicHeight": 4
 }

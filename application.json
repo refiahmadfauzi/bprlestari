@@ -15,7 +15,7 @@
   "clonedFromApplicationId": "64b4f657d7a1c67138f2c7e3",
   "unpublishedApplicationDetail": {
     "appPositioning": {
-      "type": "AUTO"
+      "type": "FIXED"
     },
     "navigationSetting": {
       "showNavbar": true,
@@ -35,7 +35,7 @@
     "type": "MOBILE"
   },
   "publishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "MOBILE"
   },
   "unpublishedCustomJSLibs": [],
   "publishedCustomJSLibs": [],
