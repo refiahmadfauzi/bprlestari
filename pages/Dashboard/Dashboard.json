@@ -1,32 +1,31 @@
 {
   "unpublishedPage": {
-    "name": "Login",
-    "slug": "login",
+    "name": "Dashboard",
+    "slug": "dashboard",
     "layouts": [
       {
         "viewMode": false,
         "dsl": {
-          "mobileBottomRow": 1292,
+          "mobileBottomRow": 830,
           "widgetName": "MainContainer",
           "topRow": 0,
-          "bottomRow": 1292,
+          "bottomRow": 576.0000000000001,
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "minHeight": 1292,
+          "minHeight": 830,
           "useAutoLayout": true,
-          "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "positioning": "vertical",
           "backgroundColor": "none",
-          "rightColumn": 4896,
+          "rightColumn": 1224,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
           "containerStyle": "none",
-          "snapRows": 124,
+          "snapRows": 81,
           "version": 80,
           "mobileTopRow": 0,
           "responsiveBehavior": "fill",
@@ -34,32 +33,17 @@
             {
               "children": [
                 {
-                  "id": "bxr828k3n6",
+                  "id": "9n669xjvcy",
                   "align": "start"
                 }
               ]
             }
           ]
         },
-        "layoutOnLoadActions": [
-          [
-            {
-              "id": "Login_JSObject1.myFun2",
-              "name": "JSObject1.myFun2",
-              "collectionId": "Login_JSObject1",
-              "clientSideExecution": true,
-              "confirmBeforeExecute": false,
-              "pluginType": "JS",
-              "jsonPathKeys": [
-                "async function () {}"
-              ],
-              "timeoutInMillisecond": 10000
-            }
-          ]
-        ],
+        "layoutOnLoadActions": [],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Login",
+        "id": "Dashboard",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -70,5 +54,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "64b4ff51c24ae330be8ef76e_64b5716858734b4fd5830f61"
+  "gitSyncId": "64b4ff51c24ae330be8ef76e_64b650917f13974c4888c94e"
 }

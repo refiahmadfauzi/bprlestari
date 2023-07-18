@@ -1,12 +1,16 @@
 {
   "pages": [
     {
-      "id": "Register",
+      "id": "Login",
+      "isDefault": true
+    },
+    {
+      "id": "Registrasi",
       "isDefault": false
     },
     {
-      "id": "Login",
-      "isDefault": true
+      "id": "Dashboard",
+      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -15,29 +19,33 @@
   "clonedFromApplicationId": "64b4f657d7a1c67138f2c7e3",
   "unpublishedApplicationDetail": {
     "appPositioning": {
-      "type": "FIXED"
+      "type": "AUTO"
     },
     "navigationSetting": {
       "showNavbar": true,
-      "orientation": "top",
-      "navStyle": "stacked",
+      "orientation": "side",
+      "navStyle": "sidebar",
       "position": "static",
       "itemStyle": "text",
-      "colorStyle": "light",
+      "colorStyle": "theme",
       "logoAssetId": "",
       "logoConfiguration": "logoOnly",
       "showSignIn": false
     }
   },
-  "color": "#FBF4ED",
+  "color": "#D9E7FF",
   "icon": "bag",
   "unpublishedAppLayout": {
-    "type": "MOBILE"
+    "type": "DESKTOP"
   },
   "publishedAppLayout": {
-    "type": "MOBILE"
+    "type": "DESKTOP"
   },
-  "unpublishedCustomJSLibs": [],
+  "unpublishedCustomJSLibs": [
+    {
+      "uidString": "jspdf_https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"
+    }
+  ],
   "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,

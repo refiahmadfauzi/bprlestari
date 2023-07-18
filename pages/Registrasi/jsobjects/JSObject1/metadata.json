@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Registrasi",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Registrasi_JSObject1",
+  "deleted": false,
+  "gitSyncId": "64b4ff51c24ae330be8ef76e_64b64d6b6b2bd10dff9872c4"
+}

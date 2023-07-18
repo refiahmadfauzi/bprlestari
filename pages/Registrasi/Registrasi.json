@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Login",
-    "slug": "login",
+    "name": "Registrasi",
+    "slug": "registrasi",
     "layouts": [
       {
         "viewMode": false,
@@ -44,22 +44,20 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Login_JSObject1.myFun2",
+              "id": "Registrasi_JSObject1.myFun2",
               "name": "JSObject1.myFun2",
-              "collectionId": "Login_JSObject1",
+              "collectionId": "Registrasi_JSObject1",
               "clientSideExecution": true,
               "confirmBeforeExecute": false,
               "pluginType": "JS",
-              "jsonPathKeys": [
-                "async function () {}"
-              ],
+              "jsonPathKeys": [],
               "timeoutInMillisecond": 10000
             }
           ]
         ],
         "layoutOnLoadActionErrors": [],
         "validOnPageLoadActions": true,
-        "id": "Login",
+        "id": "Registrasi",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -70,5 +68,5 @@
     "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "64b4ff51c24ae330be8ef76e_64b5716858734b4fd5830f61"
+  "gitSyncId": "64b4ff51c24ae330be8ef76e_64b64d6b6b2bd10dff9872be"
 }
