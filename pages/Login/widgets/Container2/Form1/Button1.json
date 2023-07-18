@@ -3,7 +3,7 @@
     "boxShadow": "none",
     "mobileBottomRow": 33.19999999999928,
     "widgetName": "Button1",
-    "onClick": "{{navigateTo('Register', {}, 'SAME_WINDOW');}}",
+    "onClick": "{{navigateTo('Registrasi', {}, 'SAME_WINDOW');}}",
     "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
     "displayName": "Button",
     "iconSVG": "https://appcdn.appsmith.com/static/media/icon.7beb9123fb53027d9d6b778cdfe4caed.svg",
@@ -20,7 +20,7 @@
     "animateLoading": true,
     "parentColumnSpace": 9.1640625,
     "dynamicTriggerPathList": [{"key": "onClick"}],
-    "leftColumn": 55.52785438499724,
+    "leftColumn": 55.493397483601875,
     "dynamicBindingPathList": [
         {"key": "buttonColor"},
         {"key": "borderRadius"}
