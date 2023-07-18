@@ -1,24 +1,12 @@
 {
   "pages": [
     {
-      "id": "Submit new order",
+      "id": "Register",
       "isDefault": false
     },
     {
-      "id": "Page1",
+      "id": "Login",
       "isDefault": true
-    },
-    {
-      "id": "Home Page",
-      "isDefault": false
-    },
-    {
-      "id": "Admin",
-      "isDefault": false
-    },
-    {
-      "id": "My orders",
-      "isDefault": false
     }
   ],
   "viewMode": false,
@@ -26,6 +14,9 @@
   "unreadCommentThreads": 0,
   "clonedFromApplicationId": "64b4f657d7a1c67138f2c7e3",
   "unpublishedApplicationDetail": {
+    "appPositioning": {
+      "type": "AUTO"
+    },
     "navigationSetting": {
       "showNavbar": true,
       "orientation": "top",
@@ -41,7 +32,7 @@
   "color": "#FBF4ED",
   "icon": "bag",
   "unpublishedAppLayout": {
-    "type": "DESKTOP"
+    "type": "MOBILE"
   },
   "publishedAppLayout": {
     "type": "DESKTOP"
